@@ -1,0 +1,18 @@
+{
+  "current_level": "assets/levels/save_room.json",
+  "background": "saveroom.png",
+  "player_start": {
+    "x": 640,
+    "y": 670
+  },
+  "doors": [
+    {"x": 1220, "y": 400}
+  ],
+  "next_level": "assets/levels/level2.json",
+  "code_solved": true,
+  "vertical_zones": [
+    {"x": 0, "y": 0, "width": 1280, "height": 720}
+  ],
+  "shelves": [],
+  "monsters": []
+}

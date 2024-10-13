@@ -1,0 +1,45 @@
+{
+  "current_level": "assets/levels/level1.json",
+  "background": "room_1.png",
+  "player_start": {
+    "x": 640,
+    "y": 670
+  },
+  "monsters": [
+    {"type": "Monster", "x": 600, "y": 300}
+  ],
+  "vertical_zones": [
+    {"x": 0, "y": 0, "width": 1280, "height": 620}
+  ],
+  "code_terminal": {
+    "x": 1000,
+    "y": 500
+  },
+  "chat_terminal": {
+    "x": 800,
+    "y": 500
+  },
+  "shelves": [
+    {"x": 200, "y": 400},
+    {"x": 1000, "y": 400}
+  ],
+  "hiding_spots": [
+    {"x": 300, "y": 600, "width": 100, "height": 50}
+  ],
+  "obstacles": [
+    {"x": 400, "y": 300, "width": 50, "height": 200},
+    {"x": 800, "y": 300, "width": 50, "height": 200}
+  ],
+  "save_terminal": {
+    "x": 1100,
+    "y": 500
+  },
+  "npc": {
+    "x": 500,
+    "y": 500
+  },
+  "doors": [
+    {"x": 1220, "y": 400}
+  ],
+  "next_level": "assets/levels/save_room.json"
+}

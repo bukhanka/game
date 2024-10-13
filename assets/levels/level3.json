@@ -1,0 +1,30 @@
+{
+  "current_level": "assets/levels/level3.json",
+  "background": "room_3.png",
+  "player_start": {
+    "x": 640,
+    "y": 670
+  },
+  "monsters": [
+    {"type": "EnhancedMonster", "x": 600, "y": 300}
+  ],
+  "vertical_zones": [
+    {"x": 0, "y": 0, "width": 1280, "height": 620}
+  ],
+  "code_terminal": {
+    "x": 1000,
+    "y": 500
+  },
+  "chat_terminal": {
+    "x": 800,
+    "y": 500
+  },
+  "shelves": [
+    {"x": 200, "y": 400},
+    {"x": 1000, "y": 400}
+  ],
+  "doors": [
+    {"x": 900, "y": 400}
+  ],
+  "next_level": "assets/levels/level1.json"
+}

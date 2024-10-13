@@ -1,0 +1,16 @@
+{
+  "en": {
+    "health": "Health",
+    "stamina": "Stamina",
+    "noise": "Noise",
+    "game_over": "Game Over",
+    "quick_time_event": "Quick! Press {}"
+  },
+  "ru": {
+    "health": "Здоровье",
+    "stamina": "Выносливость",
+    "noise": "Шум",
+    "game_over": "Игра окончена",
+    "quick_time_event": "Быстро! Нажмите {}"
+  }
+}

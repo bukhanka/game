@@ -1,0 +1,8 @@
+pygame
+pygame_gui
+openai
+langchain
+elevenlabs
+requests
+langchain_community
+langchain_openai
